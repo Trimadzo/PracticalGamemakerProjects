@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01fc4243-f3ae-4627-bc9b-2d513603d86b",
+            "Value": {
+                "id": "87639421-3890-4797-b452-af383829d0da",
+                "resourcePath": "rooms\\room_gameover\\room_gameover.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0495d4b4-ebe5-4223-a447-3f8141cf0620",
             "Value": {
                 "id": "c085abe7-16bb-4ac5-b828-63c187481547",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "780e6c39-4465-431b-8463-a9b94d59bf47",
+            "Value": {
+                "id": "17d71488-762d-4e1c-be63-ca414aae99d0",
+                "resourcePath": "views\\a62d0139-236e-4ee9-b54b-c6d7c6d6de83-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7d160973-44ae-4341-af33-731373c1f8b2",
             "Value": {
                 "id": "40b823cb-4cc7-4ae7-9678-1f112fb78ca0",
@@ -242,7 +258,7 @@
             "Key": "a62d0139-236e-4ee9-b54b-c6d7c6d6de83",
             "Value": {
                 "id": "02251209-f779-4e1f-b403-bf9628a664e2",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_game\\room_game.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -295,6 +311,14 @@
             }
         },
         {
+            "Key": "f0481191-c179-44c4-bffd-fb40f9e1cdd6",
+            "Value": {
+                "id": "ef1d4c25-5277-46a8-84ae-87e63cbbd07c",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "f57b311c-c93d-47ce-ac73-398214bf1701",
             "Value": {
                 "id": "4c5f9b70-0a55-4e82-9b14-31f3697b6acd",
@@ -308,6 +332,14 @@
                 "id": "f6902a4d-db04-43cc-bed5-dd5100e545aa",
                 "resourcePath": "views\\fa950de8-7e18-47ca-9120-a2debff74328.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb1f56e9-b0eb-4aa2-bcc2-26e35975f9a8",
+            "Value": {
+                "id": "9b0ef452-933f-4d33-8a02-45506c56721f",
+                "resourcePath": "rooms\\room_start_game\\room_start_game.yy",
+                "resourceType": "GMRoom"
             }
         }
     ],
